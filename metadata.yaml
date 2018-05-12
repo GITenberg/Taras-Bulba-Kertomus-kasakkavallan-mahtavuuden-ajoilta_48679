@@ -1,9 +1,13 @@
 _repo: Taras-Bulba-Kertomus-kasakkavallan-mahtavuuden-ajoilta_48679
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Halonen, J. A.
     gutenberg_agent_id: '44919'
     url: http://www.gutenberg.org/2009/agents/44919
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48679#Taras-Bulba-Kertomus-kasakkavallan-mahtavuuden-ajoilta
 gutenberg_issued: '2015-04-11'
 gutenberg_type: Text
 identifiers:
